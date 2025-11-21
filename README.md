@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # encode-byelide
 印客学院 Vue3 低代码可视化项目实战
 
@@ -120,3 +121,7 @@ https://juejin.cn/post/6981374562877308936
 - 印客学院官网: http://encodestudio.cn
 - encode byelide https://github.com/encode-studio-fe/encode-byelide
 - GitHub: https://github.com/encode-studio-fe
+=======
+# lowCode--demo
+ Vue3 + TS，低代码可视化，支持流式布局/可拖拽/文本/代码编辑器
+>>>>>>> 5baad6e1e174946710ea3904e80a0108017c729d
