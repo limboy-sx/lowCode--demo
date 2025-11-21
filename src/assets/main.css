@@ -1,0 +1,23 @@
+@import url('./reset.css');
+@import url('./base.css');
+@import url('./variable.css');
+
+a,
+.green {
+  text-decoration: none;
+  color: hsl(160deg 100% 37% / 100%);
+  transition: 0.4s;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsl(160deg 100% 37% / 20%);
+  }
+}
+
+@media (width >= 1024px) {
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+}

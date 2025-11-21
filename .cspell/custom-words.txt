@@ -1,0 +1,15 @@
+autoresize
+behaviour
+Byelide
+commitlint
+conventionalcommits
+echarts
+glideapps
+optimizelegibility
+pinia
+tiptap
+veaury
+vuedraggable
+vuejs
+vueuse
+zrender
