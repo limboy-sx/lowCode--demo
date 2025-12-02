@@ -388,7 +388,6 @@ editorconfig;
   * Vue-Router  
   * 拖拽库：基于原生的 smooth-dnd 需要自己封装用于 Vue3 的拖拽组件  
   * 编辑器：tiptap for vue3，https://tiptap.dev/installation/vue3  
-  * UI 库：Arco Design，https://arco.design/vue/docs/start  
   * 表单校验：vee-validate，https://vee-validate.logaretm.com/v4/  
   * 流程编排：@vue-flow/core，https://vueflow.dev/  
   * 图表：echarts  
